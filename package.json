@@ -1,12 +1,12 @@
 {
-  "name": "ADEEL-MD",
+  "name": "BALOCH-2011",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By ADEEL-MD",
+  "description": "A WhatsApp Bot Created By BALOCH-2011",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name ADEEL-MD",
-    "stop": "pm2 stop ADEEL-MD",
-    "restart": "pm2 restart ADEEL-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name BALOCH-2011",
+    "stop": "pm2 stop BALOCH-2011",
+    "restart": "pm2 restart BALOCH-2011"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "github:Jeliostarr/DEV-Baileys",
