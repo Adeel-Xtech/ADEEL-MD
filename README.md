@@ -1,8 +1,8 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-«𝐀𝐃𝐄𝐄𝐋-𝐌𝐃»
+«BALOCH-2011»
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">
-  <img src="https://files.catbox.moe/hg5hj6.jpg" alt="𝐀𝐃𝐄𝐄𝐋-𝐌𝐃" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>
+  <img src="https://files.catbox.moe/hg5hj6.jpg" alt="BALOCH-2011" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>
 </h1>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">
@@ -12,7 +12,7 @@
                font-size: 45px; 
                font-weight: bold;">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-    ✨𝐀𝐃𝐄𝐄𝐋-𝐌𝐃✨
+    ✨BALOCH-2011✨
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </span>
 </h1>
@@ -108,6 +108,6 @@
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h2 align="center">
-  🌈✨ ᴛʜᴀɴᴋ ғᴏʀ ᴜsɪɴɢ <span style="color:#00FFFF">𝐀𝐃𝐄𝐄𝐋-𝐌𝐃</span>✨🌈
+  🌈✨ ᴛʜᴀɴᴋ ғᴏʀ ᴜsɪɴɢ <span style="color:#00FFFF">BALOCH-2011</span>✨🌈
 </h2>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
