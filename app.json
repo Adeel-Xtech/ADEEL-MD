@@ -1,8 +1,8 @@
 {
-  "name": "ADEEL-MD",
-  "description": "Javascript WhatsApp bot made by ADEEL-MD",
-  "logo": "https://cdn-bandaheali.vercel.app/file/ADEEL-MD31424.jpg",
-  "keywords": ["ADEEL-MD"],
+  "name": "BALOCH-2011",
+  "description": "Javascript WhatsApp bot made by BALOCH-2011",
+  "logo": "https://cdn-bandaheali.vercel.app/file/ADEEL-MD39269.jpg",
+  "keywords": ["BALOCH-2011"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "ADEEL-MD"
+      "value": "BALOCH-2011"
     }, 
       
     "PREFIX": {
@@ -41,7 +41,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"  
+      "value": "true"  
     },    
    
     "AUTO_REPLY": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY ADEEL-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY BALOCH-2011 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ADEEL-MD"
+      "value": "BALOCH-2011"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923035512967"
+      "value": "923005962011"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "ADEEL-MD"
+      "value": "BALOCH-2011"
 
       }, 
 
@@ -112,7 +112,7 @@
      "ANTI_LINK_KICK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "false"
+      "value": "true"
       
     },
     
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://cdn-bandaheali.vercel.app/file/ADEEL-MD31424.jpg"
+      "value": "https://cdn-bandaheali.vercel.app/file/ADEEL-MD39269.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*𝐂𝐑𝐄𝐀𝐓𝐄𝐑 𝐀𝐃𝐄𝐄𝐋-𝐌𝐃*"
+      "value": "*𝐂𝐑𝐄𝐀𝐓𝐄𝐑 BALOCH-2011*"
     },
 
       "DELETE_LINKS": {
