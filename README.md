@@ -44,7 +44,7 @@
 ## 🔐 GET PAIR CODE
 
 <p align="center">
-  <a href="adeel-md-pair-production-c931.up.railway.app" target="_blank">
+  <a href="https://adeel-md-pair-production-c931.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/badge/🔑_GET_PAIR_CODE-CLICK_HERE-F5A623?style=for-the-badge&logoColor=black&labelColor=1a1100" width="300"/>
   </a>
 </p>
