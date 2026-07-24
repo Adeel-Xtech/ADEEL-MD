@@ -1,8 +1,8 @@
 /**
- * • Protected by ADEEL Obfuscator
- * • Type: Extreme Code (Chinese Style)
+ * • Bhai itni mehnat khud ka bot banane par lagate to acha tha
+ * • Yahan copy paste ka kuch nahi milne wala
+ * • Powered by ADEEL-XTECH
  */
- 
  
  
  
