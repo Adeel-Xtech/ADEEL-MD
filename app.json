@@ -55,6 +55,11 @@
       "required": true,
       "value": "false"
     },
+    "AUTO_STATUS_REACT": {
+      "description": "Make it true for automatic react on status.",
+      "required": true,
+      "value": "true"
+    },
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
